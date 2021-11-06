@@ -1,0 +1,38 @@
+/*---Buttons font --font-family: 'Frank Ruhl Libre', serif;---*/
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre&display=swap');
+/*---Headings font --*/
+body{
+  background-color: #EBE9E7;
+  margin: 0;
+}
+/*---Start of navigation custom styles---*/
+a.navbar-brand img{
+  width: 15rem;
+}
+.header_section .main_menu .navbar{
+  padding: 1rem 10rem;
+  background-color: #F2F7FE;
+  box-shadow: 0 3px rgba(123, 131, 207, 0.4);
+}
+.mr-auto .collapse li.nav-item{
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 1.5rem;
+  margin: 0 1.4rem;
+}
+div.right a{
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 1.6rem;
+  margin-left: 5.3rem;
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+}
+.mr-auto .navbar-nav .nav-link{
+  color:#000;
+}
+@media screen and (min-width: 300px) and (max-width: 650px) {
+  .header_section .main_menu .navbar{
+    padding-left: 0;
+  }
+}
+/*--end of navigation custom styles*/
