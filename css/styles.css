@@ -154,9 +154,63 @@ p{
   padding: 3rem;
   padding-left: 9rem;
 }
+.section2 .container .card{
+  width: 40rem;
+}
 @media screen and (min-width: 300px) and (max-width: 991.9px){
   .section2 .container img#sec1, .section2 .container img#sec2{
     padding: 0;
   }
+}
+@media screen and (min-width: 991.8px) and (max-width: 1399.9px){
+  .section2 .container .card{
+    width: 29rem;
+  }
+  .section2 .container img#sec1{
+    width: 30rem;
+    padding: 11rem 2rem 0 1rem;
+  }
+  .section2 .container img#sec2{
+    width: 29.5rem;
+    padding: 3rem;
+    padding-left: 6rem;
+    padding-right: 1rem;
+  }
+}
+@media screen and (min-width: 480.8px) and (max-width: 991px){
+  .section2 .container .card{
+    width: 28rem;
+  }
+  .section2 .container img#sec1{
+    width: 25rem;
+    padding: 11rem 2rem 0 1rem;
+  }
+  .section2 .container img#sec2{
+    width: 25.5rem;
+    padding: 3rem;
+    padding-left: 6rem;
+    padding-right: 1rem;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 480.7px){
+  .section2 .container .card{
+    width: 22rem;
+  }
+  .section2 .container img#sec1{
+    width: 20rem;
+    padding: 0;
+  }
+  .section2 .container img#sec2{
+    width: 16.5rem;
+    padding: 0;
+    padding-left: 2rem;
+    padding-right: 1rem;
+  }
+}
+.section3 .container h1#projects, .section3 .container p.introduction{
+  text-align: center;
+}
+.section3 .container .col-12{
+  margin: 2.7rem;
 }
 /*--end of section1 custom styles*/
