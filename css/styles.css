@@ -1,6 +1,9 @@
 /*---Buttons font --font-family: 'Frank Ruhl Libre', serif;---*/
 @import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre&display=swap');
-/*---Headings font --*/
+/*---Headings font --font-family: 'Playfair Display', serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+/*---paragraphs font --font-family: 'Montserrat Alternates', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&display=swap');
 body{
   background-color: #EBE9E7;
   margin: 0;
@@ -72,5 +75,19 @@ div.right a{
     width: 15rem;
     padding-top: 2rem;
   }
+}
+.section1 .container .intro{
+  
+}
+.section1 .container h1{
+  font-family: 'Playfair Display', serif;
+}
+h1 span#my_name{
+  color: #565FB6;
+  font-weight: 600;
+  font-size: 3.2rem;
+}
+.section1 .container .intro{
+  font-family: 'Playfair Display', serif;
 }
 /*--end of section1 custom styles*/
