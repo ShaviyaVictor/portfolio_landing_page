@@ -3,7 +3,7 @@
 /*---Headings font --font-family: 'Playfair Display', serif;*/
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 /*---paragraphs font --font-family: 'Montserrat Alternates', sans-serif; */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
 body{
   background-color: #EBE9E7;
   margin: 0;
@@ -19,7 +19,7 @@ a.navbar-brand img{
 }
 .mr-auto .collapse li.nav-item{
   font-family: 'Frank Ruhl Libre', serif;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   margin: 0 1.4rem;
 }
 div.right a{
@@ -77,7 +77,7 @@ div.right a{
   }
 }
 .section1 .container .intro{
-  
+  padding-top: 12rem;
 }
 .section1 .container h1{
   font-family: 'Playfair Display', serif;
@@ -88,6 +88,15 @@ h1 span#my_name{
   font-size: 3.2rem;
 }
 .section1 .container .intro{
-  font-family: 'Playfair Display', serif;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 1.3rem;
+}
+.section1 .intro .buton{
+  margin: 2.2rem;
+  }
+.section1 .intro #buton{
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 1.2rem;
+  background-color: #BC5747;
 }
 /*--end of section1 custom styles*/
