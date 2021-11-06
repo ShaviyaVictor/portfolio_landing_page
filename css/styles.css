@@ -79,7 +79,7 @@ div.right a{
 .section1 .container .intro{
   padding-top: 12rem;
 }
-.section1 .container h1{
+.container h1{
   font-family: 'Playfair Display', serif;
 }
 h1 span#my_name{
@@ -130,5 +130,16 @@ h1 span#my_name{
     background-color: #BC5747;
     padding: 0.5rem;
   }
+}
+.section2 .container h1#about{
+  text-align: center;
+}
+.section2 .container p#intro{
+  text-align: center;
+  color: #565FB6;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+.section2 .container .col-12{
+  margin-top: 2.7rem;
 }
 /*--end of section1 custom styles*/
