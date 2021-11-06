@@ -123,4 +123,12 @@ h1 span#my_name{
     font-size: 1rem;
   }
 }
+@media screen and (max-width: 370px){
+  .section1 .intro #buton{
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size: 0.8rem;
+    background-color: #BC5747;
+    padding: 0.5rem;
+  }
+}
 /*--end of section1 custom styles*/
