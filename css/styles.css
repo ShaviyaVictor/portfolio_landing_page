@@ -28,7 +28,19 @@ div.right a{
   font-weight: 600;
 }
 .mr-auto .navbar-nav .nav-link{
-  color:#000;
+  color:#BC5747 !important;
+}
+.navbar-nav .nav-item a:hover{
+  color: rgba(183, 134, 0, 0.6) !important;
+}
+.navbar-nav .nav-item a:focus{
+  color: #000 !important;
+}
+.navbar div.right a:hover{
+  color: rgba(183, 134, 0, 0.6);
+}
+.navbar div.right a:focus{
+  color: #BC5747;
 }
 @media screen and (min-width: 300px) and (max-width: 650px) {
   .header_section .main_menu .navbar{
@@ -36,3 +48,29 @@ div.right a{
   }
 }
 /*--end of navigation custom styles*/
+/*--start of section1 custom styles*/
+.section1 .container .img{
+  padding: 0 0 0 0;
+  background-color: #fff;
+  margin: 1.5rem;
+  border-radius: 3rem 3rem 0 0;
+  display: flex;
+  justify-content: center;
+}
+.section1 .container img{
+  width: 26.8rem;
+  padding-top: 4rem;
+}
+@media screen  and (max-width: 510px) {
+  .section1 .container img{
+    width: 20rem;
+    padding-top: 3rem;
+  }
+}
+@media screen and (max-width: 410px) {
+  .section1 .container img{
+    width: 15rem;
+    padding-top: 2rem;
+  }
+}
+/*--end of section1 custom styles*/
