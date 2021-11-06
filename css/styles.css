@@ -134,12 +134,29 @@ h1 span#my_name{
 .section2 .container h1#about{
   text-align: center;
 }
-.section2 .container p#intro{
+p{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+.section2 .container .span#intro{
   text-align: center;
   color: #565FB6;
   font-family: 'Montserrat Alternates', sans-serif;
 }
 .section2 .container .col-12{
-  margin-top: 2.7rem;
+  margin: 2.7rem;
+}
+.section2 .container img#sec1{
+  width: 45rem;
+  padding: 8rem 8rem 0 2rem;
+}
+.section2 .container img#sec2{
+  width: 36.3rem;
+  padding: 3rem;
+  padding-left: 9rem;
+}
+@media screen and (min-width: 300px) and (max-width: 991.9px){
+  .section2 .container img#sec1, .section2 .container img#sec2{
+    padding: 0;
+  }
 }
 /*--end of section1 custom styles*/
