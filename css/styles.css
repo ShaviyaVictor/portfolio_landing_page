@@ -131,6 +131,8 @@ h1 span#my_name{
     padding: 0.5rem;
   }
 }
+/*--end of section1 custom styles*/
+/*--start of section2 custom styles*/
 .section2 .container h1#about{
   text-align: center;
 }
@@ -156,6 +158,10 @@ p{
 }
 .section2 .container .card{
   width: 40rem;
+}
+h3{
+  font-family: 'Playfair Display', serif;
+  text-decoration: underline;
 }
 @media screen and (min-width: 300px) and (max-width: 991.9px){
   .section2 .container img#sec1, .section2 .container img#sec2{
@@ -194,7 +200,7 @@ p{
 }
 @media screen and (min-width: 320px) and (max-width: 480.7px){
   .section2 .container .card{
-    width: 22rem;
+    width: 20rem;
   }
   .section2 .container img#sec1{
     width: 20rem;
@@ -213,4 +219,12 @@ p{
 .section3 .container .col-12{
   margin: 2.7rem;
 }
-/*--end of section1 custom styles*/
+/*--end of section2 custom styles*/
+/*--start of section3 custom styles*/
+.section3 .col-lg-4 img{
+  width: 26rem;
+}
+.section3 .col-lg-4 .card{
+  margin-top: 10rem;
+}
+/*--end of section3 custom styles*/
