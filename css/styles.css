@@ -213,18 +213,21 @@ h3{
     padding-right: 1rem;
   }
 }
+/*--end of section2 custom styles*/
+/*--start of section3 custom styles*/
 .section3 .container h1#projects, .section3 .container p.introduction{
   text-align: center;
 }
 .section3 .container .col-12{
   margin: 2.7rem;
 }
-/*--end of section2 custom styles*/
-/*--start of section3 custom styles*/
 .section3 .col-lg-4 img{
   width: 26rem;
 }
 .section3 .col-lg-4 .card{
   margin-top: 10rem;
 }
-/*--end of section3 custom styles*/
+.section3 .blog div h3, .section3 .blog div p{
+  margin-left: 1.1rem;
+}
+/*--end of section3 custom styles*/ 
