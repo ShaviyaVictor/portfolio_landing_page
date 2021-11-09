@@ -257,3 +257,12 @@ h3{
   }
 }
 /*--end of section3 custom styles*/ 
+/*--start of section4 custom styles*/
+.section4 .container h1#contact, .section4 .container p.reach{
+  text-align: center;
+}
+.section4 .container .col-12{
+  margin: 2.7rem;
+}
+
+/*--end of section4 custom styles*/
