@@ -24,7 +24,7 @@ The project was deployed to GitHub pages for publication.
 To view the [projects live site](https://shaviyavictor.github.io/portfolio_landing_page/).
 ### Contact
 You can reach me via:
-##### Email: [victor.shaviya@student.moringaschool.com](https://mail/)
+##### Email: [victor.shaviya@student.moringaschool.com](wa.me/254791082379/)
 ##### Phone: 0791082379
 ##### WhatsApp: [TextMe](wa.me/254791082379/)
 ### Technologies Used
@@ -32,12 +32,12 @@ You can reach me via:
 -CSS
 -Bootstrap
 ### Credits
-[w3schools](https://www.w3schools.com/) came in handy in assisting me clarify some aspects that I wanted to include in my project.
+[w3schools](https://www.w3schools.com/) came in handy in assisting me clarify some aspects that I wanted to include in my project.    
 [Moringa School](https://moringaschool.instructure.com/) was also majorly instrumental in helping me come up with this page.
 ### License and Copyright
 MIT License
 
-Copyright (c) [2021] [Victor Shaviya]
+Copyright (c) [2021] [**Victor Shaviya**]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
