@@ -264,5 +264,7 @@ h3{
 .section4 .container .col-12{
   margin: 2.7rem;
 }
-
+.section4 .container .form-control{
+  margin-top: 3rem;
+}
 /*--end of section4 custom styles*/
