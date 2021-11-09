@@ -240,7 +240,7 @@ h3{
 } 
 @media screen and (min-width: 320px) and (max-width: 410.7px){
   .section3 .col-lg-4 img{
-    width: 22rem;
+    width: 20rem;
   }
   .section3 .container h1#projects, .section3 .container p.introduction{
     text-align: left;
