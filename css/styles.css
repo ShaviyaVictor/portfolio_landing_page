@@ -230,4 +230,30 @@ h3{
 .section3 .blog div h3, .section3 .blog div p{
   margin-left: 1.1rem;
 }
+.section3 .blog div h3{
+  margin-top: 1.1rem;
+}
+@media screen and (min-width: 320px) and (max-width: 991.7px){
+  .section3 .col-lg-4 .card{
+    margin-top: 2rem;
+  }
+} 
+@media screen and (min-width: 320px) and (max-width: 410.7px){
+  .section3 .col-lg-4 img{
+    width: 22rem;
+  }
+  .section3 .container h1#projects, .section3 .container p.introduction{
+    text-align: left;
+  }
+  .section3 .container .col-12{
+    margin: 0.5rem;
+    margin-top: 2rem;
+  }
+  .section2 .container h1#about, .section2 .container p#intro{
+    text-align: left
+  }
+  .section2 .container .col-12{
+    margin: 0;
+  }
+}
 /*--end of section3 custom styles*/ 
