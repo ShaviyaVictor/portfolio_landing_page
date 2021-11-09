@@ -24,7 +24,7 @@ The project was deployed to GitHub pages for publication.
 To view the [projects live site](https://shaviyavictor.github.io/portfolio_landing_page/).
 ### Contact
 You can reach me via:
-##### Email: [victor.shaviya@student.moringaschool.com](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=new)
+##### Email: [victor.shaviya@student.moringaschool.com](https://mail.google.com/mail/)
 ##### Phone: 0791082379
 ##### WhatsApp: [TextMe](wa.me/254791082379/)
 ### Technologies Used
