@@ -258,13 +258,37 @@ h3{
 }
 /*--end of section3 custom styles*/ 
 /*--start of section4 custom styles*/
-.section4 .container h1#contact, .section4 .container p.reach{
+.section4 .container-fluid h1#contact, .section4 .container-fluid p.reach{
   text-align: center;
 }
-.section4 .container .col-12{
+.section4 .container-fluid .col-12{
   margin: 2.7rem;
 }
-.section4 .container .form-control{
+.section4 .container-fluid .form-control{
   margin-top: 3rem;
+}
+.section4 .container-fluid .col-12 .box{
+  margin-left: 18rem;
+}
+@media screen and (min-width: 769px) and (max-width: 1024.7px){
+  .section4 .container-fluid .col-12 .box{
+    margin-left: 11rem;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 768.7px){
+  .section4 .container-fluid .col-12 .box{
+    margin-left: 7rem;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 479.7px){
+  .section4 .container-fluid .col-12 .box{
+    margin-left: 0rem;
+  }
+  .section4 .container-fluid .form-control{
+    margin-top: 1rem;
+  }
+  .section4 .container-fluid h1#contact, .section4 .container-fluid p.reach{
+    text-align: left;
+  }
 }
 /*--end of section4 custom styles*/
