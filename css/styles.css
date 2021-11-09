@@ -268,7 +268,10 @@ h3{
   margin-top: 3rem;
 }
 .section4 .container-fluid .col-12 .box{
-  margin-left: 18rem;
+  margin-left: 19rem;
+}
+.container-fluid h1{
+  font-family: 'Playfair Display', serif;
 }
 @media screen and (min-width: 769px) and (max-width: 1024.7px){
   .section4 .container-fluid .col-12 .box{
